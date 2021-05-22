@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sheyla Barrientos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<figure>
+  <img src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/design-github.png?raw=true" alt="apresentação-sheyla" width="40" height="40">
+
 - 🔭 I’m currently working on **Kotlin, Android**
 
 - 🌱 I’m currently learning **React, JavaScript**
