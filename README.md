@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sheyla Barrientos</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Sheyla Barrientos</h1><br>
+<h3 align="center">A passionate Front End Developer from Brazil</h3>
 
 <figure>
-  <img src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/design-github.png?raw=true" alt="apresentação-sheyla" width="700" height="420">
+  <img src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/design-github.png?raw=true" alt="apresentação-sheyla" width="2048" height="962">
 
 - 🔭 I’m currently working on **Kotlin, Android**
 
