@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheyla Barrientos</h1><br>
+<h1 align="center">Hi 👋, I'm Sheyla Barrientos</h1>
 <h3 align="center">A passionate Front End Developer from Brazil</h3>
 
 <figure>
