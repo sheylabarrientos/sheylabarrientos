@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front End Developer from Brazil</h3>
 
 <figure>
-  <video autoplay="autoplay" src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/sheyla-barrientos-video.mp4" alt="apresentação-sheyla" width="1500"></video>
+  <video autoplay="autoplay" src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/sheyla-barrientos-video.mp4"></video>
 
 - 🔭 I’m currently working on **Kotlin, Android**
 
