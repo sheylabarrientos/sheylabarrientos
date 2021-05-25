@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front End Developer from Brazil :computer: </h3>
 
 <figure>
-  <img src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/sheyla-barrientos-gif.gif" alt"Apresentação Sheyla" width="1500"></img>
+  <img src="https://github.com/sheylabarrientos/sheylabarrientos/blob/main/sheyla-barrientos.gif" alt"Apresentação Sheyla" width="1500"></img>
 
 - 🔭 I’m currently working on **Kotlin, Android**
 
