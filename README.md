@@ -10,16 +10,6 @@
 
 - 💬 Ask me about **HTML5, CSS3**
 
-<h1 align="center">Olá 👋, Eu sou Sheyla Barrientos</h1>
-
-<h3 align="center">Uma desenvolvedora apaixonada por front-end do Brasil :computer: </h3>
-
-- 🔭 Atualmente, estou trabalhando em ** Kotlin, Android **
-
-- 🌱 Atualmente, estou aprendendo ** React, JavaScript **
-
-- 💬 Pergunte-me sobre ** HTML5, CSS3 **
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sheyla_araujo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sheyla_araujo" height="30" width="40" /></a>
@@ -43,3 +33,14 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/sheylaaraujo" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sheyla Barrientos" /></a></p><br><br>
+
+<h1 align="center">Olá 👋, Eu sou Sheyla Barrientos</h1>
+
+<h3 align="center">Uma desenvolvedora apaixonada por front-end do Brasil :computer: </h3>
+
+- 🔭 Atualmente, estou trabalhando em ** Kotlin, Android **
+
+- 🌱 Atualmente, estou aprendendo ** React, JavaScript **
+
+- 💬 Pergunte-me sobre ** HTML5, CSS3 **
+
