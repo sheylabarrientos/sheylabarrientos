@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kotlin, Android**
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript**
 
 - 💬 Ask me about **HTML5, CSS3**
 
@@ -40,7 +40,7 @@
 
 - 🔭 Atualmente, estou trabalhando em ** Kotlin, Android **
 
-- 🌱 Atualmente, estou aprendendo ** React, JavaScript **
+- 🌱 Atualmente, estou aprendendo ** Java, JavaScript **
 
 - 💬 Pergunte-me sobre ** HTML5, CSS3 **
 
